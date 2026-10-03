@@ -3,7 +3,7 @@
 ## 📌 Project Description
 A Salesforce-based system that uses Agentforce and Salesforce Flow to automatically analyze customer support tickets and classify them into High, Medium, or Low priority.
 
-##🎯 Features
+## 🎯 Features
 
 - Ticket management
 - Automatic priority prediction
@@ -12,14 +12,14 @@ A Salesforce-based system that uses Agentforce and Salesforce Flow to automatica
 - Urgent task creation
 - SLA risk checking
 
-##-🛠️ Technologies
+## 🛠️ Technologies
 
 - Salesforce
 - Agentforce
 - Salesforce Flow
 - Custom Object
 
-##⚡ Workflow
+## ⚡Workflow
 
 Customer Ticket → Agentforce → Analyze Description → Priority Prediction → Agent Assignment → Task Creation → Final Response
 
@@ -33,7 +33,7 @@ Customer Ticket → Agentforce → Analyze Description → Priority Prediction �
 
 The system reduces manual work, identifies urgent tickets quickly, and improves customer support ticket handling.
 
-##-👥 Team
+## 👥 Team
 
 - **DHARANI PRIYA A** – Team Lead
 - **ANANTHI N**
