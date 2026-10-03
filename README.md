@@ -1,10 +1,9 @@
 # Customer Support Ticket Priority Prediction and Automated Assignment System Using Agentforce
 
-## About
+## 📌 Project Description
+A Salesforce-based system that uses Agentforce and Salesforce Flow to automatically analyze customer support tickets and classify them into High, Medium, or Low priority.
 
-A Salesforce-based system that automatically analyzes customer support tickets and classifies them as **High, Medium, or Low priority** using Agentforce and Salesforce Flow.
-
-## Features
+##🎯 Features
 
 - Ticket management
 - Automatic priority prediction
@@ -13,18 +12,18 @@ A Salesforce-based system that automatically analyzes customer support tickets a
 - Urgent task creation
 - SLA risk checking
 
-## Technologies
+##-🛠️ Technologies
 
 - Salesforce
 - Agentforce
 - Salesforce Flow
 - Custom Object
 
-## Workflow
+##⚡ Workflow
 
 Customer Ticket → Agentforce → Analyze Description → Priority Prediction → Agent Assignment → Task Creation → Final Response
 
-## Priority Classification
+## ✨Priority Classification
 
 - **High:** Urgent, Not Working, Failure
 - **Medium:** Issue, Slow, Delay
@@ -34,7 +33,7 @@ Customer Ticket → Agentforce → Analyze Description → Priority Prediction �
 
 The system reduces manual work, identifies urgent tickets quickly, and improves customer support ticket handling.
 
-## Team
+##-👥 Team
 
 - **DHARANI PRIYA A** – Team Lead
 - **ANANTHI N**
